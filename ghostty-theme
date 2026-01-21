@@ -1,23 +1,23 @@
 # Background and foreground colors
-background = #0a1220
-foreground = #f0f2f5
+background = #222222
+foreground = #F7F1FF
 
 # Standard colors
-palette = 0=#0a1220
-palette = 1=#F25E86
-palette = 2=#B2D977
-palette = 3=#F2C063
-palette = 4=#78DCE8
-palette = 5=#ABA0F2
-palette = 6=#F28B66
-palette = 7=#f0f2f5
+palette = 0=#131313
+palette = 1=#FC618D
+palette = 2=#7BD88F
+palette = 3=#FCE566
+palette = 4=#5AD4E6
+palette = 5=#948AE3
+palette = 6=#FD9353
+palette = 7=#FFFFFF
 
 # Bright colors
-palette = 8=#555c65
-palette = 9=#F25E86
-palette = 10=#B2D977
-palette = 11=#F2C063
-palette = 12=#78DCE8
-palette = 13=#ABA0F2
-palette = 14=#F28B66
-palette = 15=#f0f2f5
+palette = 8=#191919
+palette = 9=#FC618D
+palette = 10=#7BD88F
+palette = 11=#FCE566
+palette = 12=#5AD4E6
+palette = 13=#948AE3
+palette = 14=#FD9353
+palette = 15=#FFFFFF

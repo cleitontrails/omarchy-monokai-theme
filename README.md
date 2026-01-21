@@ -1,8 +1,8 @@
-# Omarchy Monokai Theme
+# Omarchy Monokai Pro Spectrum Theme
 
-A vibrant, high-contrast theme for Omarchy based on the iconic Monokai Pro color palette. This theme delivers exceptional readability and visual appeal with its carefully balanced combination of warm and cool tones. Perfect for developers who want a modern, professional look that reduces eye strain during long coding sessions.
+A vibrant, high-contrast theme for Omarchy based on the iconic Monokai Pro Spectrum color palette. This theme delivers exceptional readability and visual appeal with its carefully balanced combination of warm and cool tones. Perfect for developers who want a modern, professional look that reduces eye strain during long coding sessions.
 
-The theme features the classic Monokai Pro colors: vivid pinks, electric blues, vibrant greens, and warm oranges, all set against a dark background for optimal contrast and comfort.  
+The theme features the Monokai Pro Spectrum colors: vivid pinks, electric blues, vibrant greens, and warm oranges, all set against a dark background for optimal contrast and comfort.  
 
 ## Screenshot
 

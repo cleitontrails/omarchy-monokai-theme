@@ -17,7 +17,7 @@ return {
 					annotation = { italic = true },
 					tag_attribute = { italic = true },
 				},
-				filter = "octagon", -- Use the Octagon variant
+				filter = "spectrum", -- Use the Spectrum variant
 				inc_search = "background",
 				background_clear = {
 					"toggleterm",
