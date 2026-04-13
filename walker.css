@@ -4,3 +4,10 @@
 @define-color border #948AE3;
 @define-color foreground #F7F1FF;
 @define-color background #222222;
+
+.box-wrapper {
+  border: 2px solid transparent;
+  background-image: linear-gradient(@base, @base), linear-gradient(45deg, #948AE3, #FD9353);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
