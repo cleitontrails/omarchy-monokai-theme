@@ -11,7 +11,7 @@ theme[title]="#948AE3"
 theme[hi_fg]="#FD9353"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#191919"
+theme[selected_bg]="#69676C"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#F7F1FF"
@@ -23,7 +23,7 @@ theme[inactive_fg]="#525053"
 theme[graph_text]="#F7F1FF"
 
 # Background color of the percentage meters
-theme[meter_bg]="#191919"
+theme[meter_bg]="#69676C"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#948AE3"
