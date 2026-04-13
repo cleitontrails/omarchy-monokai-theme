@@ -23,7 +23,7 @@ foreground = "None"
 background = "None"
 
 [colors.footer_bar]
-foreground = "#525053"
+foreground = "#222222"
 background = "#F7F1FF"
 
 [colors.selection]
@@ -51,11 +51,11 @@ cyan = "#FD9353"
 white = "#FFFFFF"
 
 [colors.dim]
-black = "#FFFFFF"
+black = "#525053"
 red = "#FC618D"
 green = "#7BD88F"
 yellow = "#FCE566"
 blue = "#5AD4E6"
 magenta = "#948AE3"
 cyan = "#FD9353"
-white = "#525053"
+white = "#FFFFFF"
