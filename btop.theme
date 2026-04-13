@@ -29,10 +29,10 @@ theme[meter_bg]="#191919"
 theme[proc_misc]="#948AE3"
 
 # Box outline and divider line color
-theme[cpu_box]="#7BD88F"
+theme[cpu_box]="#948AE3"
 theme[mem_box]="#7BD88F"
-theme[net_box]="#7BD88F"
-theme[proc_box]="#7BD88F"
+theme[net_box]="#FC618D"
+theme[proc_box]="#FD9353"
 theme[div_line]="#525053"
 
 # Gradient for all meters and graphs

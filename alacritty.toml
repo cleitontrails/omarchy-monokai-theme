@@ -15,8 +15,8 @@ foreground = "#222222"
 background = "#F7F1FF"
 
 [colors.search.focused_match]
-foreground = "CellBackground"
-background = "CellForeground"
+foreground = "#222222"
+background = "#FD9353"
 
 [colors.line_indicator]
 foreground = "None"
@@ -27,8 +27,8 @@ foreground = "#222222"
 background = "#F7F1FF"
 
 [colors.selection]
-text = "CellBackground"
-background = "CellForeground"
+text = "#222222"
+background = "#948AE3"
 
 [colors.normal]
 black = "#131313"
